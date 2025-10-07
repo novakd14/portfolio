@@ -5,7 +5,7 @@ import "./App.css"
 function Header() {
 	return (
 		<header className="bg-gray-800 text-white p-6 text-center text-2xl font-bold">
-			David Novák
+			Mgr. David Novák
 		</header>
 	);
 }
